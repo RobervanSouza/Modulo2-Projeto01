@@ -116,7 +116,7 @@ footer {
 footer a {
   text-decoration: none;
   color: black;
-  font-size: 1.9rem;
+  font-size: 2rem;
   text-align: center;
 }
 .rob{
@@ -125,13 +125,13 @@ footer a {
 
 .git{
   color:grey;
-  font-size: 3rem;
+  font-size: 2rem;
   cursor: pointer;
 }
 
 .lin{
   color: gray;
-  font-size: 3rem;
+  font-size: 2rem;
   cursor: pointer;
 
 }
